@@ -21,7 +21,7 @@ repository               : "JiajunTang2002/JiajunTang2002.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : #"personal_pic.png"
+  avatar           : "personal_pic.png"
   name             : "Jiajun Tang"
   pronouns         : # example: "he/him"  
   bio              : "incoming PhD student at Princeton University"
