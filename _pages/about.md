@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Myself"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,11 +9,11 @@ redirect_from:
 
 I'm a final-year undergraduate student from [School of EECS](https://eecs.pku.edu.cn/), Peking University. I'm an incoming PhD student from [Department of ECE](https://ece.princeton.edu/), Princeton University. My research interest spans broadly in hardware design, VLSI circuits and systems.
 
-I'm fortunate to be advised by Prof. Xiyuan Tang of PRIME Lab, Peking University.
+I'm fortunate to be advised by Prof. Xiyuan Tang of [PRIME Lab](https://tangresearch.top/index.html), Peking University.
 
-You can find my CV here.
+You can find my CV here. [Jiajun's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](mailto: jt1488@princeton.edu)
+[Email](mailto: jt1488@princeton.edu) / [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=0mVEUvgAAAAJ) / [Wechat](../images/wechat.jpg)
 
 A data-driven personal website
 ======
