@@ -14,7 +14,7 @@ Education
 * Ph.D (incoming) in Electrical and Computer Engineering, Princeton University
 * B.S. in Applied Physics, Peking University, 2024
 
-Work experience
+Research experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * Github University
@@ -60,4 +60,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Vice President for the Students’ Association for Science and Technology, School of EECS, Peking University, Fall 2023 & Spring 2023
