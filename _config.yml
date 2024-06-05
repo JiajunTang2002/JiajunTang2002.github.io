@@ -24,7 +24,7 @@ author:
   avatar           : "personal_pic.png"
   name             : "Jiajun Tang"
   pronouns         : # example: "he/him"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "incoming PhD student at Princeton University"
   location         : "Beijing, China"
   employer         : 
   uri              : 
@@ -48,7 +48,7 @@ author:
   stackoverflow    : 
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
