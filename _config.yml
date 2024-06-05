@@ -12,7 +12,7 @@ title                    : "Jiajun Tang / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Jiajun Tang"
 description              : &description "personal description"
-url                      : https://jiajuntang2002.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://JiajunTang2002.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
