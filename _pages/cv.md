@@ -16,40 +16,33 @@ Education
 
 Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2/2024-Current: Part-Time Research Assistant
+  * Designed an energy-efficient temperature sensor independently and verified in post-layout.
+  * Supervisor: Prof. Xiyuan Tang
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 6/2023-12/2023: Full-Time Research Assistant
+  * Designed a transmitter circuit which is ready for tape-out.
+  * Helped in localization algorithm verification.
+  * Supervisor: Prof. David Blaauw
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 12/2022-6/2023: Part-Time Research Assistant
+  * Conducted system-level design of capacitive sensor in MATLAB 
+  * Helped in transistor-level design.
+  * Supervisor: Prof. Xiyuan Tang  
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages
+  * Mandarin (native), English
+* Programming
+  * C++, Python, MATLAB
+* Circuit Design
+  * Cadence Virtuoso, HSpice, Verilog, Chisel, HFSS
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
 Teaching
