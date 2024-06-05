@@ -17,17 +17,18 @@ Education
 Research experience
 ======
 * 2/2024-Current: Part-Time Research Assistant
-  * Designed an energy-efficient temperature sensor independently and verified in post-layout.
+  * Designed an energy-efficient temperature sensor independently
+  * Verified in post-layout
   * Supervisor: Prof. Xiyuan Tang
 
 * 6/2023-12/2023: Full-Time Research Assistant
-  * Designed a transmitter circuit which is ready for tape-out.
-  * Helped in localization algorithm verification.
+  * Designed a transmitter circuit which is ready for tape-out
+  * Helped in localization algorithm verification
   * Supervisor: Prof. David Blaauw
 
 * 12/2022-6/2023: Part-Time Research Assistant
   * Conducted system-level design of capacitive sensor in MATLAB 
-  * Helped in transistor-level design.
+  * Helped in transistor-level design
   * Supervisor: Prof. Xiyuan Tang  
   
 Skills
