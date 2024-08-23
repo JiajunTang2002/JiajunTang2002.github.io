@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D (incoming) in Electrical and Computer Engineering, Princeton University
+* Ph.D. student (first-year) in Electrical and Computer Engineering, Princeton University
 * B.S. in Applied Physics, Peking University, 2024
 
 Research experience
