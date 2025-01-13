@@ -13,4 +13,4 @@ I was advised by Prof. Xiyuan Tang of [PRIME Lab](https://tangresearch.top/index
 
 I enjoy playing basketball, guitar, music games, jogging, etc., for relaxation. Please feel free to reach out for discussing research or just making friends!
 
-[Email](mailto: jt1488@princeton.edu) / [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=0mVEUvgAAAAJ) / [CV](../CV_Aug2024.pdf)
+[Email](mailto: jt1488@princeton.edu) / [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=0mVEUvgAAAAJ) / [CV](../CV_Jan2025.pdf)
