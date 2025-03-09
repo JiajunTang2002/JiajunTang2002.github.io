@@ -24,7 +24,7 @@ author:
   avatar           : "personal_pic.png"
   name             : "Jiajun Tang (唐嘉珺)"
   pronouns         : # example: "he/him"  
-  bio              : "First-year PhD student at Princeton University"
+  bio              : "PhD student at Princeton University"
   location         : "Princeton, NJ"
   employer         : 
   uri              : 
@@ -32,7 +32,7 @@ author:
 
   # Academic websites
   arxiv            : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=0mVEUvgAAAAJ&hl=en"
   impactstory      : 
   orcid            : 
   semantic         : 
@@ -71,7 +71,7 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : # URL
+  zhihu            : "https://www.zhihu.com/people/jiajuntang/"
 
 
 # Site Settings
